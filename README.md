@@ -1,2 +1,1 @@
-# Panorama-Stiching
-This image processing exercise consists the implementation of the image panorama algorithm
+Exercise number 4 in the image processing course at the Hebrew University
